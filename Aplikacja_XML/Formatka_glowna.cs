@@ -66,15 +66,47 @@ namespace Aplikacja_XML
         private void button3_Click(object sender, EventArgs e)
         {
             listView1.Items.Clear();
-            decvar.addeducation.Clear();
+            decvar.addbooks.Clear();
             ReadXML();
         }
+
+        private enum XMLState
+        {
+            Empty,
+            Book
+        }
+
+        string elname;
+        string[] addBook = new string[6];
+
 
         private void ReadXML()
         {
             OpenFileDialog ofd = new OpenFileDialog();
             ofd.InitialDirectory = Application.StartupPath;
             ofd.Filter = "XML Files(.xml)|*.xml";
+
+            if (DialogResult.OK == ofd.ShowDialog(this))
+            {
+                /*
+                XmlTextReader xtr = new XmlTextReader(ofd.FileName);
+                XMLState state = new XMLState();
+                state = XMLState.Empty;
+
+                while (xtr.Read())
+                {
+                    switch (xtr.NodeType)
+                    {
+                        case XmlNodeType.Element:
+                            if (xtr.Name == "Przyklad")
+                            {
+                                textBox1.Text = xtr.GetAttribute("Imię");
+                            }
+                    }
+                }
+*/
+            }
+
         }
     }
 }

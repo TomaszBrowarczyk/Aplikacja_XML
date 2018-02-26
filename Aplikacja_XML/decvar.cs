@@ -9,7 +9,7 @@ namespace Aplikacja_XML
 {
     class decvar
     {
-        public static ArrayList addeducation = new ArrayList();
+        public static ArrayList addbooks = new ArrayList();
         public static string[] added = new string[6];
     }
 }
