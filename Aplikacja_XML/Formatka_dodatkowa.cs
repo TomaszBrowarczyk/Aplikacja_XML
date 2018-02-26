@@ -31,6 +31,5 @@ namespace Aplikacja_XML
             this.Close();
         }
 
-       
     }
 }

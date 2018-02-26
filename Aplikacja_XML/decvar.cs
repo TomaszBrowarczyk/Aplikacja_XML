@@ -10,6 +10,6 @@ namespace Aplikacja_XML
     class decvar
     {
         public static ArrayList addeducation = new ArrayList();
-        public static string[] added = new string[4];
+        public static string[] added = new string[6];
     }
 }
