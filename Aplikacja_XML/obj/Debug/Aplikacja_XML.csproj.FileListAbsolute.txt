@@ -1,0 +1,11 @@
+D:\studia\xml\Aplikacja\Aplikacja_XML\Aplikacja_XML\bin\Debug\Aplikacja_XML.exe.config
+D:\studia\xml\Aplikacja\Aplikacja_XML\Aplikacja_XML\bin\Debug\Aplikacja_XML.exe
+D:\studia\xml\Aplikacja\Aplikacja_XML\Aplikacja_XML\bin\Debug\Aplikacja_XML.pdb
+D:\studia\xml\Aplikacja\Aplikacja_XML\Aplikacja_XML\obj\Debug\Aplikacja_XML.csprojResolveAssemblyReference.cache
+D:\studia\xml\Aplikacja\Aplikacja_XML\Aplikacja_XML\obj\Debug\Aplikacja_XML.Formatka_glowna.resources
+D:\studia\xml\Aplikacja\Aplikacja_XML\Aplikacja_XML\obj\Debug\Aplikacja_XML.Properties.Resources.resources
+D:\studia\xml\Aplikacja\Aplikacja_XML\Aplikacja_XML\obj\Debug\Aplikacja_XML.csproj.GenerateResource.Cache
+D:\studia\xml\Aplikacja\Aplikacja_XML\Aplikacja_XML\obj\Debug\Aplikacja_XML.csproj.CoreCompileInputs.cache
+D:\studia\xml\Aplikacja\Aplikacja_XML\Aplikacja_XML\obj\Debug\Aplikacja_XML.exe
+D:\studia\xml\Aplikacja\Aplikacja_XML\Aplikacja_XML\obj\Debug\Aplikacja_XML.pdb
+D:\studia\xml\Aplikacja\Aplikacja_XML\Aplikacja_XML\obj\Debug\Aplikacja_XML.Formatka_dodatkowa.resources
